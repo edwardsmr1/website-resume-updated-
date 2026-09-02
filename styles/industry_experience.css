@@ -1,0 +1,66 @@
+header {
+  text-align: center;
+  margin: 40px 0;
+}
+
+main {
+  max-width: 900px;
+  margin: 80px auto;
+  background-color: rgb(39, 24, 148); 
+  padding: 30px;
+  border-radius: 10px;
+}
+
+.job-card {
+  text-align: left;
+  margin: 40px 0;
+}
+
+.job-card h2 {
+  margin-top: 15px;
+  color: #ffcc00;
+}
+
+.job-card p {
+  max-width: 700px;
+  margin: 10px auto 10px 0;
+  line-height: 1.6;
+  color: #ffcc00; 
+}
+
+h1 {
+  margin: 50px 0;
+  color: #ffcc00;
+}
+
+hr {
+  border: none;
+  height: 2px;
+  background-color: rgb(253, 253, 253);
+  margin: 60px auto;
+  width: 80%;
+}
+
+@media (max-width: 430px) {
+  main {
+    padding: 22px 18px;
+  }
+
+  .job-card {
+    margin: 24px 0;
+  }
+
+  .job-card h2 {
+    margin-top: 0;
+    font-size: 1.35rem;
+  }
+
+  .job-card p {
+    max-width: none;
+  }
+
+  hr {
+    margin: 32px auto;
+    width: 100%;
+  }
+}

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Classwork</title>
+  <link rel="stylesheet" href="Styles/Style.css">
+  <link rel="stylesheet" href="Styles/classwork.css">
+</head>
+<body>
+
+  <header>
+
+    <img src="images/ClassWorkGraphic.png" alt="Classwork" width="800">
+  </header>
+
+  <main>
+
+    <div class="class-card">
+      <img src="images/ClassWork-WebDesignImage.jpg" alt="Web Design">
+      <h2>Web Design</h2>
+      <p>College of Charleston, Spring 2025</p>
+      <br><br>
+      <p>This class taught me how to structure HTML and CSS layouts and think about user experience.</p>
+    </div>
+
+    <div class="class-card">
+      <img src="images/ClassWork-CyberSecurityImage.webp" alt="Cybersecurity">
+      <h2>Cybersecurity</h2>
+      <p>College of Charleston, Fall 2024</p>
+      <br><br>
+      <p>This class gave me foundational knowledge of networks, security principles, and vulnerabilities.</p>
+    </div>
+
+    <div class="class-card">
+      <img src="images/ClassWork-ProgrammingImage.jpg" alt="Programming">
+      <h2>Programming</h2>
+      <p>College of Charleston, Fall 2024</p>
+      <br><br>
+      <p>This class strengthened my problem-solving skills and ability to write clean, logical code.</p>
+    </div>
+
+  </main>
+
+  <footer>
+    <br>
+    <p>Contact Email: edwardsmr1@g.cofc.edu</p>
+  </footer>
+
+</body>
+</html>

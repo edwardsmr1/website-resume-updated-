@@ -1,0 +1,11 @@
+--- PAGE 1 ---
+Project Stage 7 – Accomplishments and About Me Page For submission, upload a link to your live project. Stage 7 of your project will be graded based on your live website's appearance. To get credit for Stage 7, upload your most up-to-date ﬁles to Filezilla. Ensure your live site interacts how you’d like.  In Stage 7 of your project, we will create the Accomplishments page and touch up the About Me page. By the end of this stage, all pages of your project should have a navigation bar with consistent styling. If any of your pages do not have a navigation bar, add now.  Add a dropdown menu to the navigation bar for ‘Accomplishments’ so that your accomplishment titles appear when this item is hovered over.   For your Accomplishments landing page, imitate the design below.  For your About Me page, put the ‘Skills’ , ‘Fun Facts’ , and ‘Journey’ , next to each other, each one surrounded by a border with rounded corners. To help keep these elements the same size, set the selector’s height and add the property overﬂow with the value set to scroll. overﬂow: scroll; will ensure that any content that does not ﬁt within the height is now scrollable.       Examples below:          
+--- PAGE 2 ---
+Ex) dropdown menu when hovering over Accomplishments 
+  Ex) sidebar on Accomplishments page 
+    
+
+--- PAGE 3 ---
+ Ex) Skills, Fun Facts, and Journey on About Me page 
+ 
+

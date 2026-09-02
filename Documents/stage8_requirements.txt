@@ -1,0 +1,12 @@
+--- PAGE 1 ---
+Project Stage 8 – About Me x Classwork Responsive Design In Stage 8 of your project, you will make your ‘About Me’ and ‘Classwork’ pages responsive for a mobile device. Create media queries that adjust the page layout when the screen size is 430px or less.   Upload a link to your website to OAKS when complete.  The content of your work should be there already; now, you will need to use a media query to incorporate the mobile navbar from Chapter 8 and adjust the design layout.  When a user views your website resume from a phone, your site should have the following feel:
+                 
+
+--- PAGE 2 ---
+  
+                   
+
+--- PAGE 3 ---
+ 
+           
+

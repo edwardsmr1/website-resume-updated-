@@ -1,0 +1,12 @@
+--- PAGE 1 ---
+Project Stage 9 – Projects x Industry Experience x Accomplishments Responsive In Stage 9 of your project, you will make your ‘Projects’ , ‘Industry Experience’ , and ‘Accomplishments’ pages responsive for a mobile view (430px or less). Upload a link to your website to OAKS once it is complete.  When a user views your website from a phone, your site should have the following feel. Projects Page: 
+       
+
+--- PAGE 2 ---
+Industry Experience:  
+            
+
+--- PAGE 3 ---
+Accomplishments: 
+    
+

@@ -1,0 +1,48 @@
+/* General page styling */
+body {
+  margin: 0;
+  font-family: 'Times New Roman', Times, serif;
+  background-color: #0a8ce9;
+  color: #222;
+}
+
+/* About Me section */
+.about-me {
+  max-width: 900px;
+  margin: 60px auto;
+  padding: 20px;
+  display: flex;
+  gap: 30px;
+  align-items: center;
+  background-color: white;
+  border-radius: 10px;
+}
+
+/* Profile image */
+.about-me img {
+  width: 250px;
+  border-radius: 10px;
+}
+
+/* Text content */
+.about-text h1 {
+  margin-bottom: 10px;
+}
+
+.about-text p {
+  line-height: 1.6;
+  margin: 8px 0;
+}
+
+/* Footer */
+footer {
+  background-color: #222;
+  color: white;
+  text-align: center;
+  padding: 30px 0;
+  margin-top: 80px;
+}
+
+footer p {
+  margin: 5px 0;
+}
