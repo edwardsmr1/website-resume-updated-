@@ -88,6 +88,9 @@ header h1 {
 #navbar ul li:hover > ul{
   display: block;
 }
+#navbar ul li:focus-within > ul {
+  display: block;
+}
 #navbar ul li a {
   text-align: center;
   display: block;
@@ -124,7 +127,7 @@ header h1 {
 /* Footer styling */
 footer {
   background-color: #ffffff;
-  color: #ffcc00;
+  color: #4a05b9;
   text-align: center;
   padding: 30px 0;
   margin-top: 80px;
